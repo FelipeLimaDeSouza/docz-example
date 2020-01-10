@@ -15,7 +15,7 @@
       "value": {
         "id": "04c6e90faac2675aa89e2176d2eec7d8",
         "filepath": "README.md",
-        "fullpath": "/Users/felipelima/Projects/docz/README.md",
+        "fullpath": "/Users/felipelima/Projects/docz-example/README.md",
         "link": "",
         "slug": "readme",
         "route": "/readme",
@@ -97,7 +97,7 @@
         "route": "/",
         "id": "a08e664b64d63394cab05b2e5d624522",
         "filepath": "src/components/Button/index.mdx",
-        "fullpath": "/Users/felipelima/Projects/docz/src/components/Button/index.mdx",
+        "fullpath": "/Users/felipelima/Projects/docz-example/src/components/Button/index.mdx",
         "link": "",
         "slug": "src-components-button-index",
         "menu": "",

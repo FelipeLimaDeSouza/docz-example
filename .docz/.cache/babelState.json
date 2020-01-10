@@ -9,16 +9,16 @@
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/felipelima/Projects/docz"
+            "root": "/Users/felipelima/Projects/docz-example"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/felipelima/Projects/docz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/felipelima/Projects/docz-example/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": true,
-            "autoLabel": true,
+            "sourceMap": false,
+            "autoLabel": false,
             "plugins": []
           }
         }
@@ -37,16 +37,16 @@
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/felipelima/Projects/docz"
+            "root": "/Users/felipelima/Projects/docz-example"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/felipelima/Projects/docz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/felipelima/Projects/docz-example/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": true,
-            "autoLabel": true,
+            "sourceMap": false,
+            "autoLabel": false,
             "plugins": []
           }
         }
@@ -65,16 +65,16 @@
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/felipelima/Projects/docz"
+            "root": "/Users/felipelima/Projects/docz-example"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/felipelima/Projects/docz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/felipelima/Projects/docz-example/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": true,
-            "autoLabel": true,
+            "sourceMap": false,
+            "autoLabel": false,
             "plugins": []
           }
         }
@@ -93,16 +93,16 @@
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/felipelima/Projects/docz"
+            "root": "/Users/felipelima/Projects/docz-example"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/felipelima/Projects/docz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/felipelima/Projects/docz-example/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": true,
-            "autoLabel": true,
+            "sourceMap": false,
+            "autoLabel": false,
             "plugins": []
           }
         }
